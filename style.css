@@ -20,7 +20,7 @@ table tbody tr:nth-child(even){
 table tbody tr:nth-child(odd){
     background-color: rgb(234, 253, 247);
 }
-table tbody tr:hover{
+table tbody tr td:hover{
     background-color: rgb(16, 218, 150);
     cursor: pointer;
 }
